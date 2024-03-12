@@ -27,4 +27,6 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+1. Task 1
+2. Task 2
+Work in progress...
