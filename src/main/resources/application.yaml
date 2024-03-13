@@ -9,7 +9,7 @@ app:
 
 spring:
   config:
-    import: optional:file:secure_data.properties
+    import: file:secure_data.properties
   init:
     mode: never
   jpa:
